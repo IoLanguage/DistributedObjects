@@ -1,0 +1,15 @@
+{
+  "name":         "DistributedObjects",
+  "version":      "0.1",
+  "description":  "",
+  "author":       "",
+  "website":      "http://iolanguage.org",
+  "readme":       "README.md",
+  "protos":       ["DistributedObjects"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": ["https://github.com/IoLanguage/Socket.git"]
+  }
+}
